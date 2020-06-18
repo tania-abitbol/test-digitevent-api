@@ -1,0 +1,8 @@
+{
+  "name": "test-digitevent-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tania-abitbol/test-digitevent-api.git",
+  "author": "tania-abitbol <tabitbol@hotmail.com>",
+  "license": "MIT"
+}
